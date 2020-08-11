@@ -1,0 +1,15 @@
+{
+  "name": "create-react-tic-toc",
+  "description": "tic toc game",
+  "version": "0.0.0",
+  "author": "sudipto <sudiptocsi@gmail.com>",
+  "dependencies": {
+    "create-create-app": "^6.0.0"
+  },
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "license": "AGPL-3.0"
+}
